@@ -1,0 +1,26 @@
+Pour vous c'est quoi le Cloud ?
+Le cloud ou "l'informatique en nuage", est le principe des serveurs à distance hébergés sur Internet.
+
+Donnez les avantages d'utilisation du Cloud
+
+Les avantages d'utilisation du Cloud sont son Automatisation, son Accessibilité ...
+
+
+C'est quoi le Network Adress Translation (NAT) ?
+
+Le NAT permet de modifier des ports sources et de destination. Cela permet donc d'utiliser un trop grand nomre de port.
+
+
+Quels sont les différents type de NAT ? Illustrez vos explication via des dessin à la main. Vous mettrez des images dans ce package.
+
+Les différents types de NAT sont le NAT Statique, le Nat Dynamique, et le PAT (Port Address Translation).
+
+
+Quels sont les service amazon web services que vous connaissez ? Que font-ils ?
+
+Parmis les services d'AWS que nous connaissons, il y a ceux qui gère les API, ceux qui permettent de créer un jeux vidéos, ainsi que différentes base de données.
+
+
+Dunkan à la maison accède à la série Rabbit Hole sur la plateforme de vidéo en ligne Paramount+.
+Expliquez le processus NAT Port Adress Translation montrant le traffic depuis la rêquete pour récupérer la vidéo jusqu'à l'apparition sur son écran
+Illustrez vos explication au travers de schemas.
